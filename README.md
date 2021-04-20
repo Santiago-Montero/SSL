@@ -1,2 +1,2 @@
 # SSL
-Soy Santiago Montero del curso K2005
+Santiago Montero del curso K2005
